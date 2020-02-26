@@ -6,6 +6,8 @@ public class ManiTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("Test");
+		System.out.println("Test");
+		
 		
 	}
 
